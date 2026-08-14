@@ -37,16 +37,6 @@ What I practiced:
 - Language: Python
 - Simulation: Turtlesim
 
-📁 Repository Structure
-ROS2-Course-Assignments/
-│
-├── task1_publisher_subscriber.py
-├── task1_publisher_subscriber.png
-│
-├── task2_turtle_square.py
-├── task2_turtle_square.png
-│
-└── README.md
 
 🎯 Learning Outcomes
 Through these assignments, I gained practical experience with:
